@@ -3,7 +3,8 @@ body {
   background-color: #e5e7ed;
 }
 .base-color {
-  color: #0bceaf;
+  /* color: #0bceaf; */
+  color: #ff4274;
 }
 .secondary-button {
   color: #0bceaf;
@@ -126,8 +127,10 @@ header,
 /*------------------------- Next & Prev Page -------------------------*/
 .next-prev-page button {
   background-color: transparent;
-  border: 2px solid #0bceaf;
-  color: #0bceaf;
+  /* border: 2px solid #0bceaf; */
+  border: 2px solid #ff4274;
+  /* color: #0bceaf; */
+  color: #ff4274;
 }
 /*------------------------- About -------------------------*/
 .border-img {
