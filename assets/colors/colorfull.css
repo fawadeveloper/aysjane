@@ -492,10 +492,12 @@ header,
 /*------------------------- Mouse Magic Cursor -------------------------*/
 .mmc-inner,
 .mmc-inner.mmc-hover {
-  background-color: #0bceaf;
+  /* background-color: #0bceaf; */
+  background-color: #ff4274;
 }
 .mmc-outer {
-  border: 2px solid #0bceaf;
+  /* border: 2px solid #0bceaf; */
+  border: 2px solid #ff4274;
 }
 
 /*------------------------- Media -------------------------*/
