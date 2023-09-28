@@ -2246,3 +2246,8 @@ body.dark-arshia,
     background-color: #535455 !important;
   }
 }
+
+/* my */
+.mt-6 {
+  margin-top: 5.5rem;
+}

@@ -134,7 +134,7 @@ header,
 }
 /*------------------------- About -------------------------*/
 .border-img {
-  border: 1px solid #0bceaf;
+  border: 1px solid #ff4274;
 }
 .personal-info li small {
   color: #595959;
@@ -186,6 +186,12 @@ header,
   color: #ff5380;
 }
 .knowledge-item li:nth-child(4)::before {
+  color: #0bceaf;
+}
+.knowledge-item li:nth-child(5)::before {
+  color: #ff5380;
+}
+.knowledge-item li:nth-child(6)::before {
   color: #0bceaf;
 }
 /*------------------------- Language Skill -------------------------*/
