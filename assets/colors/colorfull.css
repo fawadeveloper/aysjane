@@ -26,16 +26,16 @@ body {
   background: linear-gradient(90deg, #0bceaf 40%, rgba(13, 202, 145, 0) 100%);
 }
 .heading-meta-container .description {
-  color: #0bceaf;
+  color: #ff4274;
 }
 .heading-meta-container .description::before {
-  background-color: #0bceaf;
+  background-color: #ff4274;
 }
 .heading-meta-container .description::after {
   background: linear-gradient(
     to right,
     rgba(185, 143, 95, 0.15),
-    #0bceaf,
+    #ff4274,
     rgba(185, 143, 95, 0.15)
   );
 }
@@ -228,20 +228,9 @@ header,
 }
 .resume .vertical-line > div:nth-child(1) .timeline-year {
   color: #fff;
-  background-color: #0bceaf;
-}
-.resume .vertical-line > div:nth-child(2) .timeline-year {
-  color: #fff;
-  background-color: #fbdd62;
-}
-.resume .vertical-line > div:nth-child(3) .timeline-year {
-  color: #fff;
   background-color: #ff5380;
 }
-.resume .vertical-line > div:nth-child(4) .timeline-year {
-  color: #fff;
-  background-color: #0bceaf;
-}
+
 /*------------------------- Testimonial -------------------------*/
 .testimonial .testimonial-jub {
   color: #595959;
