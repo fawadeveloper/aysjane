@@ -3,27 +3,27 @@ body {
   background-color: #e5e7ed;
 }
 .base-color {
-  /* color: #0bceaf; */
+  /* color: #ff4274; */
   color: #ff4274;
 }
 .secondary-button {
-  color: #0bceaf;
-  border: 1px solid #0bceaf;
+  color: #ff4274;
+  border: 1px solid #ff4274;
   background-color: transparent;
 }
 .secondary-button:hover {
   color: #fff;
-  background-color: #0bceaf;
+  background-color: #ff4274;
 }
 .subtitle {
-  /* color: #0bceaf; */
+  /* color: #ff4274; */
   color: #ff4274;
 }
 .subtitle::before {
-  background-color: #0bceaf;
+  background-color: #ff4274;
 }
 .subtitle::after {
-  background: linear-gradient(90deg, #0bceaf 40%, rgba(13, 202, 145, 0) 100%);
+  background: linear-gradient(90deg, #ff4274 40%, rgba(13, 202, 145, 0) 100%);
 }
 .heading-meta-container .description {
   color: #ff4274;
@@ -43,7 +43,7 @@ body {
   background: linear-gradient(
     to top,
     rgba(185, 143, 95, 0.15),
-    #0bceaf,
+    #ff4274,
     rgba(185, 143, 95, 0.15)
   );
 }
@@ -63,10 +63,10 @@ body {
 }
 /*------------------------- OVERLAY MENU -------------------------*/
 a.menu-arrow {
-  color: #0bceaf;
+  color: #ff4274;
 }
 .menu li a {
-  color: #0bceaf;
+  color: #ff4274;
 }
 .menu li:nth-child(1) a {
   color: #028ac9;
@@ -98,7 +98,7 @@ header,
 }
 /*------------------------- RIGHT SIDE -------------------------*/
 #date b {
-  /* color: #0bceaf; */
+  /* color: #ff4274; */
   color: #ff4274;
 }
 .follow-label {
@@ -116,7 +116,7 @@ header,
 }
 .primary-button {
   color: #fff;
-  /* background-color: #0bceaf; */
+  /* background-color: #ff4274; */
   background-color: #ff4274;
 
   border: 1px solid #ff4274;
@@ -127,9 +127,9 @@ header,
 /*------------------------- Next & Prev Page -------------------------*/
 .next-prev-page button {
   background-color: transparent;
-  /* border: 2px solid #0bceaf; */
+  /* border: 2px solid #ff4274; */
   border: 2px solid #ff4274;
-  /* color: #0bceaf; */
+  /* color: #ff4274; */
   color: #ff4274;
 }
 /*------------------------- About -------------------------*/
@@ -144,20 +144,20 @@ header,
   background: linear-gradient(
     to right,
     rgba(185, 143, 95, 0.15),
-    #0bceaf,
+    #ff4274,
     rgba(185, 143, 95, 0.15)
   );
 }
 .count-icon {
-  color: #0bceaf;
+  color: #ff4274;
 }
 /*------------------------- Skills -------------------------*/
 .skills .skill-box:nth-child(1) .skillbar {
   background-color: #fff;
-  border: 1px solid #0bceaf;
+  border: 1px solid #ff4274;
 }
 .skills .skill-box:nth-child(1) .skillbar-bar {
-  background-color: #0bceaf;
+  background-color: #ff4274;
   border: 2px solid #fff;
 }
 .skills .skill-box:nth-child(2) .skillbar {
@@ -177,7 +177,7 @@ header,
   border: 2px solid #fff;
 }
 .knowledge-item li:nth-child(1)::before {
-  color: #0bceaf;
+  color: #ff4274;
 }
 .knowledge-item li:nth-child(2)::before {
   color: #fbdd62;
@@ -186,13 +186,13 @@ header,
   color: #ff5380;
 }
 .knowledge-item li:nth-child(4)::before {
-  color: #0bceaf;
+  color: #ff4274;
 }
 .knowledge-item li:nth-child(5)::before {
   color: #ff5380;
 }
 .knowledge-item li:nth-child(6)::before {
-  color: #0bceaf;
+  color: #ff4274;
 }
 /*------------------------- Language Skill -------------------------*/
 .language-skill h6 span {
@@ -202,23 +202,23 @@ header,
   color: #ff5380;
 }
 .language-bar .language-skill:nth-child(2) ul li i {
-  color: #0bceaf;
+  color: #ff5380;
 }
 .language-bar .language-skill:nth-child(3) ul li i {
   color: #fbdd62;
 }
 /*------------------------- Services -------------------------*/
 .boxes [class^="col-"]:nth-child(2n)::after {
-  background: linear-gradient(to right, #0bceaf, rgba(185, 143, 95, 0.15));
+  background: linear-gradient(to right, #ff5380, rgba(185, 143, 95, 0.15));
 }
 .boxes [class^="col-"]:nth-child(2n + 1):after {
-  background: linear-gradient(to right, rgba(185, 143, 95, 0.15), #0bceaf);
+  background: linear-gradient(to right, rgba(185, 143, 95, 0.15), #ff5380);
 }
 .services-description {
   color: #595959;
 }
 .services .services-icon {
-  color: #0bceaf;
+  color: #ff5380;
 }
 /*------------------------- RESUME -------------------------*/
 .resume .timeline-year {
@@ -235,12 +235,12 @@ header,
 .testimonial .testimonial-jub {
   color: #595959;
 }
-.testimonial .owl-dot span {
+ff5380 .testimonial .owl-dot span {
   background-color: transparent;
-  border: 1px solid #0bceaf;
+  border: 1px solid #ff5380;
 }
 .testimonial .owl-dot.active span {
-  background-color: #0bceaf;
+  background-color: #ff4274;
 }
 /*------------------------- PORTFOLIO -------------------------*/
 .portfolio .portfolio-filter li a {
@@ -250,7 +250,7 @@ header,
 }
 .portfolio .portfolio-filter li a.active,
 .portfolio .portfolio-filter li a:hover {
-  background-color: #0bceaf;
+  background-color: #ff5380;
   color: #fff;
 }
 .portfolio .portfolio-icon {
@@ -263,7 +263,7 @@ header,
   background-color: rgba(0, 0, 0, 0.4);
 }
 .portfolio .portfolio-content p {
-  color: #0bceaf;
+  color: #ff5380;
 }
 /*------------------------- BLOG -------------------------*/
 .blog-icon {
@@ -283,7 +283,7 @@ header,
 }
 .boxes .vertical-line > div:nth-child(1) .blog-dates span {
   color: #fff;
-  /* background-color: #0bceaf; */
+  /* background-color: #ff4274; */
   background-color: #ff4274;
 }
 .boxes .vertical-line > div:nth-child(2) .blog-dates span {
@@ -296,24 +296,24 @@ header,
 }
 .boxes .vertical-line > div:nth-child(4) .blog-dates span {
   color: #fff;
-  background-color: #0bceaf;
+  background-color: #ff4274;
 }
 .blog-single-page .right-side .blog-next-prev-page a {
   background-color: transparent;
-  border: 2px solid #0bceaf !important;
-  color: #0bceaf;
+  border: 2px solid #ff4274 !important;
+  color: #ff4274;
 }
 /*--------------------------- Contact ---------------------------*/
 .form-control {
   border-bottom: 1px solid #595959;
 }
 .form-control:focus {
-  color: #0bceaf;
+  color: #ff4274;
   background-color: transparent;
-  border-bottom: 1px solid #0bceaf;
+  border-bottom: 1px solid #ff4274;
 }
 .item-icon {
-  color: #0bceaf;
+  color: #ff4274;
 }
 /*--------------------------- Page Load Inner ---------------------------*/
 .page-ajax-loaded {
@@ -327,12 +327,12 @@ header,
   background-color: #ccc;
 }
 .ajax-page-nav div.nav-item a:hover {
-  background-color: #0bceaf;
+  background-color: #ff4274;
   color: #fff;
 }
 /*------------------------- Portfolio pages -------------------------*/
 .portfolio-page-carousel .owl-nav [class*="owl-"] {
-  background-color: #0bceaf !important;
+  background-color: #ff4274 !important;
 }
 .portfolio-page-carousel .owl-nav [class*="owl-"] span {
   color: #fff;
@@ -341,20 +341,20 @@ header,
   background-color: #fff;
 }
 .portfolio-page-carousel .owl-dot.active span {
-  background-color: #0bceaf;
+  background-color: #ff4274;
 }
 .aside-item-portfolio ul li:not(:last-child) {
   border-bottom: 1px solid #e3e5d2;
 }
 .aside-item-portfolio ul li a {
-  color: #0bceaf;
+  color: #ff4274;
   margin-right: 4px;
 }
 .aside-title h6 {
-  color: #0bceaf;
+  color: #ff4274;
 }
 .aside-title h6::after {
-  background: linear-gradient(90deg, #0bceaf 40%, rgba(13, 202, 145, 0) 100%);
+  background: linear-gradient(90deg, #ff4274 40%, rgba(13, 202, 145, 0) 100%);
 }
 /*------------------------- Blog Single -------------------------*/
 .blog-page-header {
@@ -366,7 +366,7 @@ header,
 }
 .blog-single .entry-meta ul li:nth-child(1) i {
   margin-right: 6px;
-  color: #0bceaf;
+  color: #ff4274;
 }
 .blog-single .entry-meta ul li:nth-child(2) i {
   margin-right: 6px;
@@ -383,7 +383,7 @@ header,
   border-left: 3px solid #353535;
 }
 .blog-single .comments-list li:nth-child(1) .image-comment {
-  border: 1px solid #0bceaf;
+  border: 1px solid #ff4274;
 }
 .blog-single .comments-list li:nth-child(1) .children .image-comment {
   border: 1px solid #ff5380;
@@ -436,7 +436,7 @@ header,
   color: #fff;
 }
 .blog-single .about-description-box li:nth-child(1) p::before {
-  background-color: #0bceaf;
+  background-color: #ff4274;
 }
 .blog-single .about-description-box li:nth-child(2) p::before {
   background-color: #ff5380;
@@ -445,15 +445,15 @@ header,
   background-color: #fbdd62;
 }
 .blog-single .about-description-box li:nth-child(4) p::before {
-  background-color: #0bceaf;
+  background-color: #ff4274;
 }
 .blog-single .comments h3::after,
 .blog-single .contact-form h3::after {
-  background: linear-gradient(90deg, #0bceaf 40%, rgba(13, 202, 145, 0) 100%);
+  background: linear-gradient(90deg, #ff4274 40%, rgba(13, 202, 145, 0) 100%);
 }
 .primary-button {
   color: #fff;
-  /* background-color: #0bceaf; */
+  /* background-color: #ff4274; */
   background-color: #ff4274;
 }
 .color-scheme {
@@ -463,16 +463,16 @@ header,
 .mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,
 .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar {
   background-color: #fff;
-  /* background-color: #0bceaf; */
+  /* background-color: #ff4274; */
   background-color: #ff4274;
 }
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
-  /* background-color: #0bceaf; */
+  /* background-color: #ff4274; */
   background-color: #ff4274;
 }
 .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
   background-color: #fff;
-  background-color: #0bceaf;
+  background-color: #ff4274;
 }
 .slider-thumb::before {
   background: #c49f69;
@@ -487,11 +487,11 @@ header,
 /*------------------------- Mouse Magic Cursor -------------------------*/
 .mmc-inner,
 .mmc-inner.mmc-hover {
-  /* background-color: #0bceaf; */
+  /* background-color: #ff4274; */
   background-color: #ff4274;
 }
 .mmc-outer {
-  /* border: 2px solid #0bceaf; */
+  /* border: 2px solid #ff4274; */
   border: 2px solid #ff4274;
 }
 
@@ -501,12 +501,12 @@ header,
     background: linear-gradient(
       to right,
       rgba(185, 143, 95, 0.15),
-      #0bceaf,
+      #ff4274,
       rgba(185, 143, 95, 0.15)
     ) !important;
   }
   .left-side a.download-cv {
-    background-color: #0bceaf !important;
+    background-color: #ff4274 !important;
     color: #fff;
   }
   .next-prev-page button {
@@ -522,7 +522,7 @@ header,
     background-color: #e5e7ed !important;
   }
   .menu-toggle span {
-    background: #0bceaf;
+    background: #ff4274;
   }
   .menu-overlay {
     background-color: rgba(0, 0, 0, 0.25);
@@ -531,9 +531,9 @@ header,
     color: #000;
   }
   .mobile-menu .list-group-item a.active {
-    color: #0bceaf;
+    color: #ff4274;
   }
   .mobile-blog-nav.blog-next-prev-page a i {
-    color: #0bceaf;
+    color: #ff4274;
   }
 }

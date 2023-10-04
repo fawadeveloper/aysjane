@@ -735,6 +735,14 @@ header .navbar-brand b {
   margin-bottom: 12px;
 }
 /*------------------------- RESUME -------------------------*/
+.center-education {
+  margin-left: 15rem;
+  width: 100%;
+  /* width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  margin: 0 auto !important; */
+}
 .resume h3 i {
   padding-right: 0.75rem;
 }
@@ -2250,4 +2258,9 @@ body.dark-arshia,
 /* my */
 .mt-6 {
   margin-top: 5.5rem;
+}
+
+.my-h6 {
+  font-size: 0.8rem !important;
+  font-weight: bold;
 }
