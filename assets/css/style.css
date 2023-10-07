@@ -756,6 +756,21 @@ header .navbar-brand b {
   font-size: 15px;
   font-weight: 400;
   margin-bottom: 0.25rem;
+  text-align: center;
+}
+.resume .timeline-year-top {
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 0.25rem;
+  text-align: center;
+  margin-bottom: 3rem;
+  margin-top: 5rem;
+}
+.resume .timeline-year-top span {
+  background: #ff5380;
+  padding: 0.3rem 1rem;
+  color: #fff;
+  border-radius: 7px;
 }
 /*------------------------- Testimonial -------------------------*/
 .testimonial-item {
@@ -2261,6 +2276,6 @@ body.dark-arshia,
 }
 
 .my-h6 {
-  font-size: 0.8rem !important;
-  font-weight: bold;
+  font-size: 0.9rem !important;
+  font-style: italic;
 }

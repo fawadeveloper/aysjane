@@ -170,29 +170,29 @@ header,
 }
 .skills .skill-box:nth-child(3) .skillbar {
   background-color: #fff;
-  border: 1px solid #ff5380;
+  border: 1px solid #0bceaf;
 }
 .skills .skill-box:nth-child(3) .skillbar-bar {
-  background-color: #ff5380;
+  background-color: #0bceaf;
   border: 2px solid #fff;
 }
 .knowledge-item li:nth-child(1)::before {
   color: #ff4274;
 }
 .knowledge-item li:nth-child(2)::before {
-  color: #fbdd62;
+  color: #0bceaf;
 }
 .knowledge-item li:nth-child(3)::before {
   color: #ff5380;
 }
 .knowledge-item li:nth-child(4)::before {
-  color: #ff4274;
+  color: #0bceaf;
 }
 .knowledge-item li:nth-child(5)::before {
   color: #ff5380;
 }
 .knowledge-item li:nth-child(6)::before {
-  color: #ff4274;
+  color: #0bceaf;
 }
 /*------------------------- Language Skill -------------------------*/
 .language-skill h6 span {
@@ -235,7 +235,7 @@ header,
 .testimonial .testimonial-jub {
   color: #595959;
 }
-ff5380 .testimonial .owl-dot span {
+.testimonial .owl-dot span {
   background-color: transparent;
   border: 1px solid #ff5380;
 }
