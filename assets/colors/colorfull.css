@@ -7,6 +7,11 @@ body {
   color: #ff4274;
   /* font-size: 20px; */
 }
+.podcastandvideo {
+  font-size: 14px;
+  /* font-weight: bold; */
+  color: #ff4274;
+}
 .secondary-button {
   color: #ff4274;
   border: 1px solid #ff4274;
