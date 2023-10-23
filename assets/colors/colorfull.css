@@ -286,24 +286,15 @@ header,
   display: inline-block;
   padding: 2px 6px;
   border-radius: 6px;
-}
-.boxes .vertical-line > div:nth-child(1) .blog-dates span {
-  color: #fff;
-  /* background-color: #ff4274; */
-  background-color: #ff4274;
-}
-.boxes .vertical-line > div:nth-child(2) .blog-dates span {
-  color: #fff;
-  background-color: #ff5380;
-}
-.boxes .vertical-line > div:nth-child(3) .blog-dates span {
-  color: #fff;
-  background-color: #fbdd62;
-}
-.boxes .vertical-line > div:nth-child(4) .blog-dates span {
   color: #fff;
   background-color: #ff4274;
 }
+
+/* .boxes .vertical-line > div:nth-child(3) .blog-dates span {
+  color: #fff;
+  background-color: #ff4274;
+} */
+
 .blog-single-page .right-side .blog-next-prev-page a {
   background-color: transparent;
   border: 2px solid #ff4274 !important;
